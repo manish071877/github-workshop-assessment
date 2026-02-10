@@ -21,3 +21,4 @@ README.md – Contains project details and instructions.
 intro.txt – Contains basic introduction details.
 
 This project is created for Git workshop practice – Branch A version.
+This project is created for Git workshop practice – Branch B version.
